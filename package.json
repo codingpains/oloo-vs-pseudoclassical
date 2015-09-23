@@ -1,0 +1,23 @@
+{
+  "name": "oloo-vs-class",
+  "description": "Which one is faster, better, stronger, lighter?",
+  "version": "0.0.0",
+  "scripts": {
+    "benchmark": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codingpains/oloo-vs-class.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Gustavo Ortiz",
+    "email": "gustavo.ortiz.monroy@gmail.com",
+    "url": "http://medium.com/@codingpains"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "benchmark": "^1.0.0",
+    "object-sizeof": "^1.0.6"
+  }
+}
